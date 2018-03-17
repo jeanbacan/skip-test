@@ -30,8 +30,8 @@ public class Store implements Serializable {
 	private static final long serialVersionUID = 1L;
 
 	@Id
-	@SequenceGenerator(name = "city_generator", sequenceName = "city_sequence", initialValue = 23)
-	@GeneratedValue(generator = "city_generator")
+	@SequenceGenerator(name = "store_generator", sequenceName = "store_sequence", initialValue = 23)
+	@GeneratedValue(generator = "store_generator")
 	private Long id;
 
 	@Column(nullable = false)
