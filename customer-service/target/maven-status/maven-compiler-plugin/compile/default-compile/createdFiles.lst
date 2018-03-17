@@ -1,0 +1,11 @@
+com\skip\service\domain\Cousine.class
+com\skip\service\repository\StoreRepository.class
+com\skip\service\repository\CousineRepository.class
+com\skip\service\dto\StoreDTO.class
+com\skip\service\operation\ICommandOperation.class
+com\skip\service\operation\bean\SearchCousinesByNameOperation.class
+com\skip\service\dto\CousineDTO.class
+com\skip\service\domain\Store.class
+com\skip\service\resource\CousineResource.class
+com\skip\service\CustomerServiceApplication.class
+com\skip\service\operation\bean\GetStoresByCousineId.class

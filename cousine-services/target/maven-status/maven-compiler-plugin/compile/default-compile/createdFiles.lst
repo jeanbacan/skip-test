@@ -1,0 +1,6 @@
+sample\data\rest\service\CityRepository.class
+sample\data\rest\SampleDataRestApplication.class
+sample\data\rest\service\HotelRepository.class
+sample\data\rest\service\CitySearchCriteria.class
+sample\data\rest\domain\City.class
+sample\data\rest\domain\Hotel.class
